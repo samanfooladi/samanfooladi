@@ -16,5 +16,4 @@ Before that I spent ~2 years in QA / security evaluation, so I care about things
 ![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
 
 🎯 **Now:** building my portfolio · learning pixel art in Aseprite
-🍸 **Latest:** [Cocktail scroll animation](https://coctail-animation.vercel.app) — React + GSAP
 📫 [Telegram](https://t.me/Saman_938) · [Instagram](https://www.instagram.com/saman.fu8)
