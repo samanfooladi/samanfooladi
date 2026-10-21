@@ -11,6 +11,9 @@ Before that I spent ~2 years in QA / security evaluation, so I care about things
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
 ![Rive](https://img.shields.io/badge/Rive-1D1D1D?style=flat-square&logo=rive&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=flat-square&logo=nmap&logoColor=white)
 
 🎯 **Now:** building my portfolio · learning pixel art in Aseprite
 🍸 **Latest:** [Cocktail scroll animation](https://coctail-animation.vercel.app) — React + GSAP
